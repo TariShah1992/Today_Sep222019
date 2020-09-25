@@ -13,6 +13,8 @@ public class LoginPageTest extends TestBase {
 	
 	public LoginPageTest(){
 		
+		//created supper method from tarishah repo:
+		
 		super();
 	}
 	
